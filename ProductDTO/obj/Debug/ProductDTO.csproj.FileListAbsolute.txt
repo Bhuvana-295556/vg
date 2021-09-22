@@ -1,0 +1,5 @@
+C:\Users\lavan\source\repos\Product\ProductUI\ProductDTO\bin\Debug\ProductDTO.dll
+C:\Users\lavan\source\repos\Product\ProductUI\ProductDTO\bin\Debug\ProductDTO.pdb
+C:\Users\lavan\source\repos\Product\ProductUI\ProductDTO\obj\Debug\ProductDTO.csproj.CoreCompileInputs.cache
+C:\Users\lavan\source\repos\Product\ProductUI\ProductDTO\obj\Debug\ProductDTO.dll
+C:\Users\lavan\source\repos\Product\ProductUI\ProductDTO\obj\Debug\ProductDTO.pdb
